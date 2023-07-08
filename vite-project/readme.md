@@ -6,11 +6,12 @@
 - USE SEARCH PARAMS
 - PAGINATION
 - SEARCH(Debouncing)
-- Context Api
+- Context API
 - Authentication
 - Cart functionality(checkout)
 - Redux
 - Sidebar and Popup(Toast | Alert)
+- PAYMENT GATEWAY
 
 
 ## BACKEND NODE 
@@ -20,6 +21,10 @@
 - FILTER
 - SORT
 - PAGINATION
-- MIDDLE WARE
+- MIDDLEWARE
 - JWT
 - SOCKET.IO
+- PAYMENT GATEWAY
+- FILE UPLOADER
+- EMAIL SENDER
+- SMS SENDER
